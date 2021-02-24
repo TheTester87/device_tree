@@ -199,7 +199,6 @@ PRODUCT_PACKAGES += \
     libbatching \
     libgeofencing \
     libgnss \
-    libgnsspps \
     libloc_socket
 
 PRODUCT_PACKAGES += \
